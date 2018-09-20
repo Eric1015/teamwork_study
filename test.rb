@@ -1,6 +1,6 @@
 def welcomeMessage()
     puts "Githubでチームワーク学習にようこそ！！"
-    puts sum(1,2)
+    puts sum(13,26)
 end
 
 welcomeMessage()
