@@ -3,3 +3,6 @@ def welcomeMessage()
 end
 
 welcomeMessage()
+
+puts "今日は涼しいですよ〜"
+
